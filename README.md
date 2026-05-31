@@ -11,7 +11,7 @@ A browser-based editor for managing your parts database and bill of materials (B
 | `index.html` | The web editor (open this in a browser) |
 | `parts_database.csv` | Parts inventory data |
 | `bom_database.csv` | Bill of materials relationships |
-| `mrp_system.py` | Python MRP calculation script |
+| `PDM_MRP.py` | Python MRP calculation script |
 
 ---
 
