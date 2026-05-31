@@ -1,0 +1,5 @@
+﻿part_number,description,type,material,unit,on_hand,on_order,reserved,reorder_level,supplier,lead_time_days,cad_file_path
+FLG-00123-A,Aluminum Plate 10mm,Raw Material,Aluminum 6061,kg,50,100,20,30,MetalCo,14,\\serverCADFLG-00123-A.stp
+SCREW-M6-20,Screw M6x20mm,Raw Material,Steel,pcs,500,0,50,100,FastenerInc,7,\\serverCADSCREW-M6-20.stp
+ASM-00456-A,Motor Assembly,Sub-Assembly,N/A,pcs,10,0,5,10,MotorInc,21,\\serverCADASM-00456-A.stp
+PROD-00789-A,Final Product,Finished Good,N/A,pcs,5,0,0,5,N/A,0,\\serverCADPROD-00789-A.stp

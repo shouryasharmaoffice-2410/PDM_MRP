@@ -1,0 +1,5 @@
+﻿parent_part_number,child_part_number,quantity,uom
+PROD-00789-A,ASM-00456-A,2,pcs
+PROD-00789-A,FLG-00123-A,4,kg
+PROD-00789-A,SCREW-M6-20,16,pcs
+ASM-00456-A,SCREW-M6-20,4,pcs
